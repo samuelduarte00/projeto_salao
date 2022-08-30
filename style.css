@@ -221,14 +221,14 @@ padding-right: 5%;
 .container-footer {
     display: flex;
     background-color: #EA21A2;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
+    padding-left: 5%;
 }
 
 .footer-text{
     display: flex;
     flex-direction: column;
-    
     height: 186px;
     justify-content: center;
     color: #FFFFFF;
